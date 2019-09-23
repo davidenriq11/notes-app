@@ -1,7 +1,7 @@
 # Notes App
 Notes application for command line written in Node.js@12.0.0
 
-## Dependencies
+## Dependencies
 This app requires Node.js v12.10.0 and NPM v6.10.3. Download them from the [Node official website](https://nodejs.org/es/)
 
 ## Installation
